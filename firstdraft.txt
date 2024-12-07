@@ -1,0 +1,51 @@
+** SCENARIO (Design Part 1) **
+Simple design where the player is a rat. Move from room to room while avoiding
+.random mouse traps, some paths trigger another .random seen event that counts
+towards player HP. Rat has to acquire a food object and leave the home. Food
+object = score. Eat food to replenish health. Escape with a big food object to
+win. Game play loop = put player into position to have to risk being caught to 
+esacpe with a good food item. Keep good food in kitchen, dining room with no
+escapes and make them gamble to get out with it or eat it and go back again.
+
+Player: Rat
+	HP: 2
+	Trap damage: 100
+	Player spotted damage: 1
+
+Location: Rance house
+Objective: Survive humans and mouse traps while looking for a place to escape
+			  with food
+Failure: Mouse trap, get spotted two consecutive times without eating
+Win States: Varied based on what the player exits the house with,
+				surviving with a crumb is hardly winning, surviving while slowly
+				pulling a piece of KFC chicken out of a bedroom, winning.
+
+Environments: Foyer, Living Room, Kitchen, Dinning Room, Bathroom, Bedroom,
+				  Bedroom, Bedroom, Garage
+
+Foyer: bench, plastic box
+	Escape/Entrance: Hole in wall
+Living Room: Chair ,couch, end table, entertainment center, desk, fire place
+	Escape: couch -> window
+Kitchen: Trash can, stool, stove, fridge, counter
+	Escape: stool
+Dining room: table, chairs, flower pot, vintage buffet
+	Escape: NONE
+Bathroom: Toilet, sink, garbage, closet, shower
+	Escape: Toilet -> Window
+Bedroom: Desk, bed, chair, garbage, end table, plant pot, dresser, closet
+	Escape: Desk -> window
+Bedroom: Desk, bed, chair, garbage, end table, plant pot, dresser, closet
+	ESCAPE: chair -> desk -> window ->
+Bedroom: Desk, bed, chair, garbage, end table, plant pot, dresser, closet
+	Escape: NONE
+Garage: Garbage, tool bench, car, cabinet, wood pile, lawn mower
+	Escape: 1. Door, 2. hole in wall, 3. hole in wall
+
+** PUZZLES (Design Part 2) **
+
+** MAPPING (Design Part 3) **
+
+** ROOM DESCRIPTIONS (Design Part 4) **
+
+** DEMO PATHS (Design Part 5) **

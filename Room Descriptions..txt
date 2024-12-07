@@ -1,0 +1,28 @@
+﻿Room Descriptions:
+
+
+Bedroom (Master): The Master Bedroom is clean and tidy on one side and messy and in disarray on the other. The bed takes up most of the room with two nightstands, one to either side. The nightstands each have different items atop them. You see a large open window on one wall. To the East, there is a door leading to the Dining Room.
+
+
+Bedroom (Daughter’s): The Daughter’s Bedroom is both tidy and in disarray. Stuffed animals are littered throughout the room. There is a small bed that seems to be more plushy than bed. There also seems to be an open window. To the South, there is a door leading to the Living Room.
+
+
+Bedroom (Son’s): The Son’s Bedroom is messy with laundry and trash scattered across the room. There is a small, messy, unmade bed and an open window. To the West, there is a door leading to the Living Room.
+
+
+Bathroom: The Bathroom is clean, except for a newspaper that seems to be lying next to the toilet. The bathroom has a sink, toilet, and shower. The bathroom window is slightly ajar. To the North, there is a door leading to the Kitchen.
+
+
+Dining Room: The Dining Room is clean, but also lived in. There is a large table with chairs, and a large, closed, window. On the table, there is a large bucket of KFC chicken. To the South, there is an opening leading to the Kitchen. To the West, there is a door leading to the Master Bedroom.
+
+
+Foyer: The Foyer is small and simple with a rug and a closet. Don’t worry there is nothing useful in the closet. To the North, there is an opening to the Living Room. To the South, there is a door to Freedom.
+
+
+Garage: The Garage is messy containing a car, and a workshop that is covered with tools, scrap wood, and other nicks and nacks. There is a latter resting against the wall. In the corner, you see a piece of cheese. To the East, you see a door into the Kitchen, and to the South, you see that the garage door is open leading to Freedom.
+
+
+Kitchen: The Kitchen is pristine with a large countertop space and an island. In the corner, you see a loose piece of cheese. On the countertop, you see a variety of kitchen Knives. To the North, you see an opening leading to the Dining Room. To the East, you see another opening leading to the Living Room. To the South, there is a door leading to the Bathroom. To the West, you see a door that leads to the Garage. 
+
+
+Living Room: The Living Room is unkept and well-loved. There is a large mantle with a TV atop it, a large couch, two reclining armchairs, and a coffee table. To the North, there is a door to the Daughter’s Bedroom. To the East, there is a door to the Son’s Bedroom. To the South, there is an opening to the Foyer. To the West, there is another opening leading to the Kitchen.
